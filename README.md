@@ -8,6 +8,6 @@ Welcome to the warehouseIn this repository, software updates are released as soo
 Author：Redstone233
 Latest Official Version：1.2
 
-###### Contact information
-Power：https://afdian.net/@Redstone2337200
-Tencent：3356168312
+###### Contact Information
+PowerGeneration：https://afdian.net/@Redstone2337200
+TencentQQ：3356168312
