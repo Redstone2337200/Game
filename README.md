@@ -9,3 +9,5 @@ Author：Redstone233
 Latest Official Version：1.2
 
 ###### Contact information
+Power：https://afdian.net/@Redstone2337200
+Tencent：3356168312
