@@ -1,12 +1,12 @@
 # Game
-Nothing Game 2.0.1
+Nothing Game 2.0.5Beta3
 
 ### Software Repository
 Welcome to the warehouseIn this repository, software updates are released as soon as they are available.
 
 ##### Other information
 Author：Redstone233
-Latest Official Version：1.3
+Latest Official Version：1.6-Beta+Building-3
 
 ###### Contact Information
 PowerGeneration：https://afdian.net/@Redstone2337200
