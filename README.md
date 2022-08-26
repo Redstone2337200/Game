@@ -13,4 +13,4 @@ PowerGeneration：https://afdian.net/@Redstone2337200
 TencentQQ：3356168312
 
 ###### Downloading
-Download Link：https://www.123pan.com/s/hSr9-2XA5d  Extract Code：not Cide
+Download Link：https://www.123pan.com/s/hSr9-2XA5d  Extract Code：not Code
